@@ -1,0 +1,15 @@
+{
+  "name": "homestay",
+  "version": "1.0.0",
+  "description": "名宿平台api服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ice",
+  "license": "ISC",
+  "dependencies": {
+    "env2": "^2.2.2",
+    "hapi": "^16.6.3"
+  }
+}
